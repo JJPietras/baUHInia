@@ -9,6 +9,8 @@
 | Type:      | obligatory             |
 | ECTS:      | VI                     |
 
+![Alt text](https://github.com/JJPietras/baUHInia/blob/main/screen.png?raw=true)
+
 ## Tools:
 
 * JetBrains Rider 2020.1
@@ -30,6 +32,6 @@
 * #### Mateusz Książek & Wojciech Kulesza - MapLogic
 * #### Jarosław Drzymalski & Michalina Olczyk - Authorisation
 * #### Norbert Rudzki & Piotr Pyciak - Admin
-* #### Jan Stawiński & Maciej Bigis - Database
+* #### Jan Stawiński & Maciej Bigos - Database
 * #### Piotr Rudak & Michał Trzuskowski - Statistics
 * #### Kamil Dębowski - Simulation
